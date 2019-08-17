@@ -1,0 +1,65 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "How I met your mother",
+      "status": "watched",
+      "rating": "excelent",
+      "genre": "Comédia",
+      "comments": "Muito bom mesmo"
+    },
+    {
+      "id": 2,
+      "name": "Friends 2",
+      "status": "watched",
+      "rating": "excelent",
+      "genre": "Comédia",
+      "comments": "Bom para descontrair sim"
+    },
+    {
+      "id": 4,
+      "name": "Better Call Saul",
+      "status": "watched",
+      "rating": "good",
+      "genre": "Ação",
+      "comments": "Galera fala bem"
+    },
+    {
+      "name": "Testando Série 1",
+      "status": "toWatch",
+      "rating": "toKnow",
+      "genre": "Ação",
+      "comments": "Testando Série 1",
+      "id": 6
+    },
+    {
+      "name": "Teste 200",
+      "status": "watching",
+      "rating": "good",
+      "genre": "Ação",
+      "comments": "Teste 200",
+      "id": 8
+    },
+    {
+      "name": "Dramática",
+      "status": "watched",
+      "rating": "good",
+      "genre": "Drama",
+      "comments": "Drama",
+      "id": 9
+    },
+    {
+      "name": "Mais uma de ação",
+      "status": "watched",
+      "rating": "excelent",
+      "genre": "Ação",
+      "comments": "Mais uma",
+      "id": 10
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
